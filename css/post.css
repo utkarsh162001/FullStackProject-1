@@ -1,0 +1,68 @@
+.blogTitle
+{
+    font-size: 150%;
+    font-family: 'Abel',sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.blogText
+{
+    font-family: 'Gill Sans','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.blogAuthor
+{
+    pad: 0px 0px 0px 10px;
+    font-family: 'Niconne',cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+#edit
+{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color: white;
+    font-family: serif;
+    font-size: 19px;
+    border: 1px solid pink;
+    height: 30px;
+    width: 75px;
+    background-color: deeppink;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+/* .signin
+{
+    right: 0.5%;
+    top: 1%;
+    position: fixed;
+}
+.btn
+{
+    background-color: #2519ff;
+    color: white;
+    padding: 10px 10px;
+}
+.Heading
+{
+    font-family: 'Satisfy',cursive;
+    font-size: 50px;
+    color: #2519ff;
+    margin: 0px;
+    position: relative;
+    left: 20px;
+    width: 50%;
+}
+.heading
+{
+    font-family: 'Marck Script',cursive;
+    font-size: 15px;
+    color: black;
+    position: relative;
+    left: 20px;
+    width: 50%;
+} */
